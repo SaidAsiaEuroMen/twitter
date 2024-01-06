@@ -1,0 +1,72 @@
+.body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo{
+  margin-left: 400px;
+}
+.create{
+  margin-left: 10px;
+}
+#login-input{
+    outline: none;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 15px;
+    width: 670px;
+    height: 20px;
+    top: 181px;
+    left: 40px;
+    border-radius: 6px;
+}
+#pass-input{
+  margin-bottom: 20px;
+  outline: none;
+  padding: 15px;
+  width: 670px;
+  height: 20px;
+  top: 276px;
+  left: 40px;
+  border-radius: 6px;
+}
+.use{
+  color:  #1DA1F2;
+}
+.text{
+  color: gray;
+  width: 670px;
+  height: 72px;
+  top: 474px;
+  left: 40px;
+  opacity: 0.6px;
+}
+#month-input{
+  width: 312px;
+  height: 30px;
+  top: 566px;
+  left: 40px;
+  border-radius: 6px;
+}
+#day-input{
+  width: 159px;
+  height: 30px;
+  top: 566px;
+  left: 372px;
+  border-radius: 6px;
+}
+#year-input{
+  width: 159px;
+  height: 30px;
+  top: 566px;
+  left: 551px;
+  border-radius: 6px;
+}
+.btn {
+  margin-top: 20px;
+  background-color: #1DA1F2;
+  border: 2px solid #1DA1F2;
+  padding: 5px 40px;
+  border-radius: 76px;
+  color: white;
+  width: 670px;
+  height: 60px;
+}
